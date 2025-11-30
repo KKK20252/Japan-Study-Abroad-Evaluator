@@ -1,0 +1,5 @@
+{
+  "name": "Japan Study Abroad Evaluator",
+  "description": "AI-powered competitiveness assessment for Japanese university applications using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
